@@ -1,5 +1,5 @@
 # success-patterner
-Project About Discovering How to Discover What Successful Looks Like and How It Happens
+This project is about digging under the surface for indicators of what success means to me (or anyone) personally...
 Main Pieces:
 Mind Map (xmind file)
 Python Webscraping (data sources)
